@@ -7,29 +7,33 @@ This project simulates a ride-sharing system where clients can request rides fro
 The application models the interaction between clients, drivers and rides. It includes ride requests, driver assignment, ride acceptance, status updates, completion and cancellation.
 
 Features
-Client and driver management
-Ride request system
-Driver assignment
-Ride acceptance
-Ride status management
-Ride completion and cancellation
-Exception handling using try/catch
-Dynamic memory management
-Simulation of different ride scenarios
-Classes
-User — base class containing common user information
-Driver — represents a driver and their vehicle
-Client — represents a customer requesting a ride
-Ride — manages ride information and its current status
+Client and driver management,
+Ride request system,
+Driver assignment,
+Ride acceptance,
+Ride status management,
+Ride completion and cancellation,
+Exception handling using try/catch,
+Dynamic memory management,
+Simulation of different ride scenarios,
+Classes.
+
+
+User — base class containing common user information,
+Driver — represents a driver and their vehicle,
+Client — represents a customer requesting a ride,
+Ride — manages ride information and its current status.
+
+
 Technologies
-C++
-Object-Oriented Programming
-Classes and inheritance
-Pointers
-Enumerations
-Exception handling
-Dynamic memory management
-Simulation
+C++,
+Object-Oriented Programming,
+Classes and inheritance,
+Pointers,
+Enumerations,
+Exception handling,
+Dynamic memory management,
+Simulation.
 
 The program demonstrates two different ride scenarios:
 
