@@ -44,8 +44,6 @@ A client requests a ride.
 A driver is assigned.
 The ride is cancelled.
 
-How to Run
-
-Compile the project using a C++ compiler
+Author
 
 C++ university project.
