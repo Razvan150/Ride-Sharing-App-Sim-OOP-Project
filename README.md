@@ -37,13 +37,16 @@ Simulation.
 
 The program demonstrates two different ride scenarios:
 
-Completed Ride
+
+Completed Ride,
 A client requests a ride.
 A driver is assigned to the ride.
 The driver accepts the ride.
 The ride status changes to ONGOING.
 The ride status changes to COMPLETED.
-Cancelled Ride
+
+
+Cancelled Ride,
 A client requests a ride.
 A driver is assigned.
 The ride is cancelled.
